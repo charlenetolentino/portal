@@ -32,7 +32,9 @@ h1 {
 /*Adds google font to H1 for main pages */
 h1.page-header{
     font-family: 'Montserrat', serif;
+    text-align: center;
 }
+
 
 main.wrapper {
     background-color: white;
